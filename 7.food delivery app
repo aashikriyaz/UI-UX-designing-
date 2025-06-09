@@ -1,0 +1,170 @@
+🍽️ FOOD DELIVERY APP – UI/UX CONTENT
+1. Welcome / Onboarding Screen
+App Name:
+
+QuickBite
+
+Tagline:
+
+Delicious food delivered to your door.
+
+Buttons:
+
+[Login]
+
+[Sign Up]
+
+[Continue with Google]
+
+Extras:
+
+"By continuing, you agree to our Terms & Privacy Policy"
+
+2. Home Screen (Browse Restaurants)
+Top Section:
+
+Search bar: Search for restaurants or dishes
+
+Delivery location: Delivering to: Chennai, India
+
+Categories:
+
+🍕 Pizza
+
+🍜 Chinese
+
+🍔 Burgers
+
+🥗 Healthy
+
+🍰 Desserts
+
+🥘 South Indian
+
+Featured Section (Horizontal scroll):
+
+🔥 Popular Near You
+
+⭐ Top Rated
+
+🆕 New on QuickBite
+
+Restaurant Cards (Repeatable Component):
+
+Field	Sample Value
+Name	Spice Junction
+Image	Restaurant cover photo
+Rating	⭐ 4.5 (1.2k reviews)
+Cuisine	Indian, Chinese
+Delivery Time	25–30 mins
+Price Level	₹₹
+Tags	Pure Veg / Offers Available
+
+3. Restaurant Details Screen
+Restaurant Info:
+
+Logo / Banner
+
+Name: Spice Junction
+
+Description: Authentic North Indian and Chinese Cuisine
+
+Rating: ⭐ 4.5
+
+Time: ⏱️ 25–30 min
+
+Delivery Fee: ₹30
+
+Offer: 20% off on orders above ₹300
+
+Menu Sections:
+
+🍛 Main Course
+
+🍟 Starters
+
+🥤 Beverages
+
+🍮 Desserts
+
+Menu Items Example:
+
+Item	Price	Description	Tags
+Chicken Biryani	₹220	Spicy long-grain rice with chicken	Bestseller
+Paneer Butter Masala	₹180	Cottage cheese in creamy gravy	Veg
+Butter Naan (2 pcs)	₹60	Soft buttery flatbread	
+
+Each item has:
+
+/ – Quantity buttons
+
+Add to Cart button
+
+4. Cart Screen
+Items in Cart:
+
+Veg Biryani ×1 – ₹180
+
+Butter Naan ×2 – ₹60
+
+Delivery Fee – ₹30
+
+Subtotal: ₹270
+Discount: – ₹30
+Total: ₹240
+
+Button: [Proceed to Checkout]
+Note: "You saved ₹30 on this order!"
+
+5. Checkout / Delivery Info
+Delivery Address:
+
+"23, Anna Nagar, Chennai, TN - 600040"
+
+Payment Methods:
+
+UPI
+
+Credit/Debit Card
+
+COD
+
+Delivery Time Slot:
+
+"Deliver by 9:00 PM – 9:30 PM"
+
+Button: [Place Order]
+
+6. Order Confirmation Screen
+Message:
+
+✅ Your order has been placed!
+Estimated delivery: 27 mins
+Tracking ID: QB72394
+
+Button: [Track Order]
+CTA: “Want to order again? Browse more restaurants →”
+
+7. Profile / Account Screen
+User Info:
+
+Name: Aashik Riyaz
+
+Email: aaasshh@example.com
+
+Phone: +91-123456789
+
+Menu:
+
+My Orders
+
+Payments & Refunds
+
+Addresses
+
+Support
+
+Settings
+
+Logout
+
